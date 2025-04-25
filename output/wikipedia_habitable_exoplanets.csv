@@ -1,0 +1,67 @@
+Object,Star,Star type,Mass (M⊕),Radius (R⊕),Density (g/cm3),Flux (F⊕),Teq (K),Period (days),Distance (ly),Refs/notes
+Earth (reported for reference),Sun,G2V,1.00,1.00,5.514,1.00,255,365.25,0,Only planet confirmed to support life
+Venus (reported for reference),Sun,G2V,0.815,0.950,5.243,1.911,244.261,224.7,0.0000042,[5]
+Mars (reported for reference),Sun,G2V,0.107,0.533,3.934,0.431,209.8,686.98,0.0000058 - 0.000042,[6]
+Gliese 12 b,Gliese 12,M4V,0.88+0.39 −0.26,1.03±0.11,4.44,1.6±0.2,315,12.7,40,Might resemble Venus and be unhabitable[7]
+Gliese 163 c,Gliese 163,M3V,≥6.80,—,—,1.25,277,25.6,49,[1]
+Gliese 180 d,Gliese 180,M2V,≥7.56,—,—,0.26,,106.3,39,[1]
+Gliese 357 d,Gliese 357,M2V,≥6.10,—,—,0.38,200,55.7,31,
+Gliese 433 d,Gliese 433,M2V,≥5.22,—,—,1.06,,36.1,29.6,[1]
+Gliese 514 b,Gliese 514,M1V,≥5.20,—,—,0.28+0.51 −0.166,202,140.4,25,Highly eccentric[8]
+Gliese 555 b,Gliese 555,M4V,≥5.46,—,—,0.5,214[9],36.2,20.4,Probably a mini-Neptune or an ocean planet[10]
+Gliese 625 b,Gliese 625,M2V,≥2.82,—,—,,,14.628,21.1,Only in HZ if very optimistic models used[11][12][13]
+Gliese 667 Cc,Gliese 667 C,M1V,≥3.81,~1.54,—,0.88,277,28.1,23.62,[14][1]
+Gliese 1002 b,Gliese 1002,M5V,≥1.08,~1.03,—,0.67,231,10.3,15.8,[15]
+Gliese 1002 c,Gliese 1002,M5V,≥1.36,1.1,—,0.26,182,21.2,15.8,[15][16]
+GJ 1061 c,GJ 1061,M5V,1.81+0.13 −0.11[17],~1.18,—,1.45,275,6.7,12,
+GJ 1061 d,GJ 1061,M5V,1.67+0.17 −0.16[17],~1.16,—,0.69,218,13.0,12,
+GJ 3293 d,GJ 3293,M2V,≥7.60,—,—,0.59,223,48.1,66,[1]
+GJ 3998 d,GJ 3998,M1V,≥6.07,—,—,,,41.8,58,[18]
+HD 20794 d,HD 20794,G8V,≥5.82,—,—,,,647.6,19.7,Highly eccentric orbit and could also be a mini-Neptune[19][20]
+HD 216520 c,HD 216520,K0V,≥9.44,—,—,1.28,,154.4,64,[1]
+HIP 38594 b,HIP 38594,M0V,≥8.10,—,—,1.34,,60.7,58,[1]
+K2-9b,K2-9,M2V,—,2.25,—,1.45,279,18.4,270,[1][21]
+K2-72e,K2-72,M?V,~2.21,1.29,—,1.30,261,24.2,217,[22]
+K2-332b,K2-332,M?V,—,2.20,—,1.17,,17.7,402,[1]
+K2-288Bb,K2-288 B,M3V,4.27,1.91,—,0.44,207,31.4,214,[23]
+Kepler-22b,Kepler-22,G5V,—,2.38,—,1.10,261,289.9,635,[1][24]
+Kepler-62e,Kepler-62,K2V,4.5+14.2 −2.6,1.61,—,1.15,264,122.4,981,[1][25]
+Kepler-62f,Kepler-62,K2V,2.8±0.4,1.41,—,0.41,204,267.3,981,[1][26]
+Kepler-155c,Kepler-155,M0V,—,2.24,—,1.05,,52.7,957,[1]
+Kepler-174d,Kepler-174,K3V,—,2.19,—,0.59,206,247.4,1254,[1]
+Kepler-186f,Kepler-186,M1V,1.44+2.33 −1.12,1.17,—,0.29,188,129.9,579,[1]
+Kepler-283c,Kepler-283,K5V,—,1.82,—,0.89,248,92.7,1526,[1]
+Kepler-296e,Kepler-296,K7V,2.96,1.52,—,1.41,276,34.1,737,[1][27][28]
+Kepler-296f,Kepler-296,K7V,—,1.80,—,0.44,225,63.3,737,[1][29]
+Kepler-442b,Kepler-442,K5V,2.36+5.9 −1.3,1.35,—,0.70,233,112.3,1193,[1]
+Kepler-440b,Kepler-440,K6V,—,1.91,—,1.44,273,101.1,981,[1]
+Kepler-443b,Kepler-443,K3V,—,2.35,—,0.89,247,177.7,2615,[1]
+Kepler-705b,Kepler-705,M?V,—,2.11,—,0.77,243,56.1,903,
+Kepler-1229b,Kepler-1229,M?V,2.540,1.40,—,0.32,213,86.8,865,[1]
+Kepler-1410b,Kepler-1410,K?V,—,1.78,—,1.07,274,60.9,1196,
+Kepler-1455b,Kepler-1455,K?V,—,2.10,—,1.30,,49.3,1280,[30]
+Kepler-1540b,Kepler-1540,K?V,—,2.49,—,0.78,250,125.4,799,
+Kepler-1544 b,Kepler-1544,K2V,—,1.78,—,0.84,248,168.8,1092,[1]
+Kepler-1606b,Kepler-1606,G?V,—,2.07,—,1.64,277,196.4,2710,[31]
+Kepler-1649c,Kepler-1649,M5V,1.20,1.06,—,0.75,237,19.5,301,[32]
+Kepler-1652b,Kepler-1652,M?V,—,1.60,—,0.84,244,38.1,822,
+Kepler-1653b,Kepler-1653,K?V,—,2.17,—,1.04,258,140.3,2461,
+Kepler-1701b,Kepler-1701,K?V,—,2.22,—,1.42,275,169.1,1904,[1][33]
+LHS 1140 b,LHS 1140,M4V,5.60,1.73,5.9±0.3,0.43,226,24.7,49,Likely an ocean world with or without an atmosphere[34]
+LP 890-9 c,LP 890-9,M6V,—,1.37,—,0.91,272,8.46,105,[35]
+Luyten b,Luyten's Star,M3V,≥2.89,~1.35,—,1.06,258,18.65,12.3,[36]
+Proxima Centauri b,Proxima Centauri,M5V,≥1.07[37]: 16,1.17±0.23,—,0.70,228,11.186,4.25,"Affected by stellar flare, possibly affected by high radiation flux[38]"
+Ross 128 b,Ross 128,M4V,≥1.40,~1.80,—,1.48,280,9.87,11.0,[39]
+Ross 508 b,Ross 508,M4V,≥4.00,—,—,1.32,,10.8,37,[40]
+Teegarden's Star b,Teegarden's Star,M7V,≥1.05,~1.02,—,1.15,264,4.91,12.5,Radius is estimated[41][42]
+Teegarden's Star c,Teegarden's Star,M7V,≥1.11,~1.04,—,0.37,199,11.4,12.5,[41]
+TOI-700 d,TOI-700,M2V,~1.72,1.14,—,0.87,246,37.4,101,
+TOI-700 e,TOI-700,M2V,0.82,0.95,—,1.27[43],273,27.8,101,[44]
+TOI-715 b,TOI-715,M4V,3.02,1.55,—,0.67,234,19.29,137,[45][46]
+TOI-2257 b,TOI-2257,M3V,5.712+4.288 −2.311,2.20,—,0.57+1.68 −0.31,256+61 −17,35.2,188,Highly eccentric[1][47]
+TRAPPIST-1d,TRAPPIST-1,M8V,0.39,0.78,3.39,1.12,258,4.05,41,Confirmed to be rocky[48][49]
+TRAPPIST-1e,TRAPPIST-1,M8V,0.69,0.92,5.65,0.65,230,6.1,41,Confirmed to be rocky[48][49]
+TRAPPIST-1f,TRAPPIST-1,M8V,1.04,1.04,3.3 ± 0.9,0.37,200,9.2,41,Confirmed to be rocky[48][49]
+TRAPPIST-1g,TRAPPIST-1,M8V,1.32,1.13,4.186,0.25,182,12.4,41,Confirmed to be rocky[48][49]
+Wolf 1069 b,Wolf 1069,M5V,≥1.26,~1.08,—,0.65,250,15.6,31.2,[50]
+Wolf 1061c,Wolf 1061,M3V,≥3.41,~1.60,—,1.30,271,17.9,13.8,[1]
